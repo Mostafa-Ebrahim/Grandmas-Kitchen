@@ -16,6 +16,3 @@ A simple food order application built with React.
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
-## Deployment
-
-The frontend is deployed on Github pages and can be accessed [here](https://mostafa-ebrahim.github.io/Grandmas-Kitchen/)

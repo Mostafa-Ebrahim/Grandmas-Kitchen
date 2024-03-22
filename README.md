@@ -15,4 +15,3 @@ A simple food order application built with React.
 1. Change directory to the backend folder: `cd backend`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
-

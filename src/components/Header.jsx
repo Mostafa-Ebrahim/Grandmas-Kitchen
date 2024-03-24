@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import logo from "../assets/logo.jpg";
 import Button from "./UI/Button";
-import CartContext from "../context/cartContext";
+import CartContext from "../context/CartContext";
 import ProgressContext from "../context/ProgressContext";
 
 export default function Header() {

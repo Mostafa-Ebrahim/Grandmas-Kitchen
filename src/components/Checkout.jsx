@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import useHttp from "../hooks/useHttp";
-import CartContext from "../context/cartContext";
+import CartContext from "../context/CartContext";
 import ProgressContext from "../context/ProgressContext";
 import Modal from "./UI/Modal";
 import Button from "./UI/Button";
